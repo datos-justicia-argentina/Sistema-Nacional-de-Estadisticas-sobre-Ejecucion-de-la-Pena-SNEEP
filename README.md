@@ -110,7 +110,8 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 -	**TuvoReduccionPenaId (int):** Se consigna la reducción de pena que hubiera otorgado el poder ejecutivo (Código).
 -	**TuvoReduccionPenaDescripcion (string):** Se consigna la reducción de pena que hubiera otorgado el poder ejecutivo (Descripción). 
 -	**MujerTieneHijosIntramuro (string):** Sólo para mujeres, se consigna si tiene hijos alojados con ella (0 – no / 1 - si).
--	
+
+
 ##Notas
 Consultas a los informes SISTEMA NACIONAL DE ESTADÍSTICAS SOBRE EJECUCIÓN DE LA PENA (SNEEP) y SISTEMA NACIONAL DE INFORMACIÓN CRIMINAL (SNIC) elaborados por la **Dirección Nacional de Política Criminal**. Esta tarea se lleva a cabo en el marco de lo dispuesto por la Ley Nº 25.266 que faculta a la Dirección a requerir información estadística a diferentes organismos oficiales con el fin de confeccionar los informes correspondientes (Estadísticas SNEEP).
 Bibliografía “Una gestión penitenciaria integral” (Una Gestión Penitenciaria Integral)

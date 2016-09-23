@@ -13,7 +13,7 @@ En este cuerpo de datos se detalla los datos recopilados en el censo realizado s
 ###Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - aaaa
 -	**Nombre:** Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - aaaa.csv (aaaa: corresponde el año del censo publicado)
 -	**Descripción:** El Sistema Nacional de Estadísticas sobre Ejecución de la Pena SNEEP tiene como fuentes a todas las unidades de detención penal, dependientes del sistema federal y provincial. Constituye una fuente de conocimiento en cuanto a características de la población privada de la libertad.
--	**Formato:** txt delimitado por tabulaciones
+-	**Formato:** CSV
 -	**Rango temporal:** 01/01/2014 al 31/12/2014
 -	**Fecha de Actualización:** 31/12/2014
 

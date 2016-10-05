@@ -7,7 +7,7 @@ La unidad de análisis son las personas alojadas en los establecimientos.
 El censo recaba la siguiente información sobre cada interno: edad, sexo, nacionalidad, estado civil, nivel de instrucción, situación laboral, lugar de residencia, jurisdicción judicial, situación legal, fecha de detención, fecha de condena, establecimiento de procedencia, tipo de delitos imputado, participación en trabajo remunerado, en actividades de capacitación laboral, en actividades recreativas, asistencia médica, vistas, alteraciones al orden, sanciones disciplinarias, calificaciones de conducta, tentativas de fugas o evasiones, tentativa de suicidios, lesiones recibidas, duración de la condena, medidas de seguridad, reincidencia, régimen de progresividad, salidas transitorias, régimen de semilibertad, programe de prelibertad, prisión discontinua, semidetención, reducción de pena, mujeres alojadas con sus hijos.
 
 ##Características
--	**Fecha de Publicación:** dd/mm/aaaa
+-	**Fecha de Publicación:** 14/07/2016
 -	**Recurso:** Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP
 -	**Tags o Etiquetas:** Establecimientos penitenciarios, SPF, SNEEP, personas privadas de la libertad, cárceles, ejecución de la pena, prisión, presos.
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal.

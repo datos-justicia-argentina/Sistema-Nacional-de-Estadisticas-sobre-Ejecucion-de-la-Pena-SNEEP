@@ -1,7 +1,7 @@
 Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP
 ===================================================================
 
-En este cuerpo de datos se detalla los datos recopilados en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. 
+En este cuerpo de datos se detallan los datos recopilados en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. 
 
 La unidad de análisis son las personas alojadas en los establecimientos. 
 
@@ -40,7 +40,7 @@ Recursos Disponibles
 
 ### Campos del recurso
 
--	**AnoCenso (int):** Año en el que se realizó el censo
+-	**AnioCenso (int):** Año en el que se realizó el censo
 
 -	**ProvinciaId (int):** Código de provincia
 
@@ -132,13 +132,13 @@ Recursos Disponibles
 
 -	**ParticipacionActividadesDeportivas (int):** Se consigna si el interno ha participado  regularmente (una vez por mes en forma continua o 12 veces al año en forma. discontinua) de actividades recreativas y deportivas en el último año (0 – no / 1 - si)
 
--	**RecibioAtencionMedicaUltAno (int):** Se consigna si el interno recibió asistencia médica (consultas ambulatorias de clínica y de otras especialidades tanto por demanda espontánea como por citación o por guardia) durante el último año (0 – no / 1 - si)
+-	**RecibioAtencionMedicaUltAnio (int):** Se consigna si el interno recibió asistencia médica (consultas ambulatorias de clínica y de otras especialidades tanto por demanda espontánea como por citación o por guardia) durante el último año (0 – no / 1 - si)
 
--	**RecibioVisitasUltimoAno (int):** Se consigna si el interno mantuvo contactos sociales con personas ajenas a la institución (0 – no / 1 - si)
+-	**RecibioVisitasUltimoAnio (int):** Se consigna si el interno mantuvo contactos sociales con personas ajenas a la institución (0 – no / 1 - si)
 
--	**ParticipoAlteracionOrdenUltAnoId (int):** Se consigna la participación en alteraciones del orden (Código)
+-	**ParticipoAlteracionOrdenUltAnioId (int):** Se consigna la participación en alteraciones del orden (Código)
 
--	**ParticipoAlteracionOrdenUltAnoDescripcion (string):** Se consigna la participación en alteraciones del orden (Descripción). En caso de que corresponda más de uno se indica el que involucre la situación de mayor gravedad
+-	**ParticipoAlteracionOrdenUltAnioDescripcion (string):** Se consigna la participación en alteraciones del orden (Descripción). En caso de que corresponda más de uno se indica el que involucre la situación de mayor gravedad
 
 Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado lugar a un sumario administrativo y/o a intervención judicial, y en los que se hayan producido además: Daños, cuando se hubieren afectado o deteriorado bienes del Estado o de terceros; Rehenes, cuando se privare ilegítimamente de la libertad a otra/s persona/s a condición de lograr el cumplimiento de exigencias de quien/es la/s retiene/n; Heridos – muertos, cuando se lesione la integridad psico-física de las personas o se produzcan fallecimientos.
 
@@ -164,7 +164,7 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**FueLesionadoDescripcion (string):** Se consigna si el interno fue lesionado en el establecimiento en el último año según el resultado de las actuaciones que se derivaron del hecho
 
--	**DuracionCondenaAnos (int):** Cantidad de años de condena según testimonio de sentencia
+-	**DuracionCondenaAnios (int):** Cantidad de años de condena según testimonio de sentencia
 
 -	**DuracionCondenaMeses (int):** Cantidad de años de condena según testimonio de sentencia si el interno ha sido condenado a pena privativa de libertad divisible. Se indica cantidad  de años y meses
 

@@ -217,7 +217,7 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 Consultas a los informes [SISTEMA NACIONAL DE ESTADÍSTICAS SOBRE EJECUCIÓN DE LA PENA (SNEEP)](http://www.jus.gob.ar/areas-tematicas/estadisticas-de-politica-criminal/mapa.aspx) y SISTEMA NACIONAL DE INFORMACIÓN CRIMINAL (SNIC) elaborados por la **Dirección Nacional de Política Criminal** 
 
-Esta tarea se lleva a cabo en el marco de lo dispuesto por la Ley Nº 25.266 que faculta a la Dirección a requerir información estadística a diferentes organismos oficiales con el fin de confeccionar los informes correspondientes (Estadísticas SNEEP)
+Esta tarea se lleva a cabo en el marco de lo dispuesto por la [Ley Nº 25.266](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63666/norma.htm) que faculta a la Dirección a requerir información estadística a diferentes organismos oficiales con el fin de confeccionar los informes correspondientes (Estadísticas SNEEP)
 
 La Base de Datos del SNEEP no incluye los registros sobre la cantidad de internos que se encuentran bajo régimen de Monitoreo Electrónico en la Provincia de Buenos Aires. Estos valores son provistos por la Dirección General de Régimen del Servicio Penitenciario de la Provincia de Buenos Aires y son agregados manualmente a los informes finales.
 
@@ -225,4 +225,3 @@ Bibliografía
 
 [“Una gestión penitenciaria integral”](http://www.jus.gob.ar/media/1126013/Una_Gestion_Penitenciaria_Integral_SNEEP.pdf)
 
-[Ley Nº 25.266](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63666/norma.htm)

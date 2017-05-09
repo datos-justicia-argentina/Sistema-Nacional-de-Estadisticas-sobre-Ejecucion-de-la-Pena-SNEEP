@@ -21,7 +21,7 @@ Características
 
 -	**Grupos:** Política Criminal. Sistema Penitenciario
 
--	**Frecuencia de Actualización:** Anual
+-	**Frecuencia de Actualización:** Anualmente
 
 Recursos Disponibles
 --------------------

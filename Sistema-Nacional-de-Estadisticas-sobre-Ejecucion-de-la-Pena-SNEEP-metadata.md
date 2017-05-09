@@ -9,7 +9,7 @@ El censo recaba la siguiente información sobre cada interno: edad, sexo, nacion
 
 Características
 ---------------
--	**Fecha de Publicación:** 14/07/2016
+-	**Fecha de Primera Publicación:** 14/07/2016
 
 -	**Tags o Etiquetas:** establecimientos penitenciarios, SPF, SNEEP, personas privadas de la libertad, cárceles, ejecución de la pena, prisión, presos
 

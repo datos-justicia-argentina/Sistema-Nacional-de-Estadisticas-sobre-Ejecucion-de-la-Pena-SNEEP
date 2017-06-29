@@ -19,7 +19,7 @@ Características
 
 -	**Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
 
--	**Grupos:** Política Criminal. Sistema Penitenciario
+-	**Grupos:** Política Criminal
 
 -	**Frecuencia de Actualización:** Anualmente
 
@@ -30,7 +30,7 @@ Recursos Disponibles
 
 -	**Nombre del archivo:** Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA.csv (AAAA: corresponde el año del censo publicado)
 
--	**Descripción del contenido:** El Sistema Nacional de Estadísticas sobre Ejecución de la Pena SNEEP tiene como fuentes a todas las unidades de detención penal, dependientes del sistema federal y provincial. Constituye una fuente de conocimiento en cuanto a características de la población privada de la libertad
+-	**Descripción del contenido:** el Sistema Nacional de Estadísticas sobre Ejecución de la Pena SNEEP tiene como fuentes a todas las unidades de detención penal, dependientes del sistema federal y provincial. Constituye una fuente de conocimiento en cuanto a características de la población privada de la libertad
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 

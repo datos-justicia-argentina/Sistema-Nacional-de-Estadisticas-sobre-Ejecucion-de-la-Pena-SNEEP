@@ -221,5 +221,5 @@ La Base de Datos del SNEEP no incluye los registros sobre la cantidad de interno
 
 Bibliografía 
 
-[“Una gestión penitenciaria integral”](http://www.jus.gob.ar/media/1126013/Una_Gestion_Penitenciaria_Integral_SNEEP.pdf)
+[“Una gestión penitenciaria integral”](http://www.jus.gob.ar/media/1126013/Una_Gestion_Penitenciaria_Integral_SNEEP.pdf), Editorial Infojus, 2011, Dirección Nacional de Política Criminal.
 

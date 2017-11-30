@@ -168,7 +168,7 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**duracion_condena_meses (int):** cantidad de años de condena según testimonio de sentencia si el interno ha sido condenado a pena privativa de libertad divisible. Se indica cantidad  de años y meses
 
--	**duracion_condena_rango (int):** se consigna en caso que el campo situacion_legal_descripcion sea = 1 (que corresponde a Condenados). Toma valores entre 1 y 8. Sino 0 para No Condenados. Valor 1) Hasta 3 años; Valor 2) De 3 6 años; Valor 3) De 6 a 9 años; 4) De 9 a 12 años; 5) De 12 a 15 años; 6) De 15 a 18 años; 7) Más de 18 años; 8) Sin datos
+-	**duracion_condena_rango (int):** si la situación legal del interno es condenado toma valores: 1) Hasta 3 años; Valor 2) De 3 6 años; Valor 3) De 6 a 9 años; 4) De 9 a 12 años; 5) De 12 a 15 años; 6) De 15 a 18 años; 7) Más de 18 años; 8) Sin datos. Si la situación legal del interno es procesado o inimputable toma el valor 0.
 
 -	**tipo_condena (int):** se consigna en caso que el interno haya sido condenado a prisión o reclusión perpetua (0 – no / 1 - si)
 

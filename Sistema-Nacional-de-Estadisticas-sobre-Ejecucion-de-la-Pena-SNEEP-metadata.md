@@ -132,7 +132,7 @@ Recursos Disponibles
 
 -	**recibio_atencion_medica_ult_anio (int):** se consigna si el interno recibió asistencia médica (consultas ambulatorias de clínica y de otras especialidades tanto por demanda espontánea como por citación o por guardia) durante el último año (0 – no / 1 - si)
 
--	**recibio_atencion_medica_ult_anio_descripcion (int):** se consigna si el interno recibió asistencia médica debido a alguna enfermedad preexistente (consultas ambulatorias de clínica y de otras especialidades tanto por demanda espontánea como por citación o por guardia) durante el último año (toma valores SI - descripción de la enfermedad / NO - en caso de que no hubiera consulta/enfermedad)
+-	**recibio_atencion_medica_ult_anio_descripcion (int):** se consigna si el interno recibió asistencia médica debido a alguna enfermedad preexistente (consultas ambulatorias de clínica y de otras especialidades tanto por demanda espontánea como por citación o por guardia) durante el último año (toma valores SI - descripción de la enfermedad / NO - en caso de que no hubiera consulta/enfermedad). **Este campo sólo está disponible a partir del año 2016**
 
 -	**recibio_visitas_ultimo_anio (int):** se consigna si el interno mantuvo contactos sociales con personas ajenas a la institución (0 – no / 1 - si)
 

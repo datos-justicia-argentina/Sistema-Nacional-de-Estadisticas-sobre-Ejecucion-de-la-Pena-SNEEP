@@ -1,7 +1,7 @@
 Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP
 ===================================================================
 
-En este cuerpo de datos se detallan los datos recopilados en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. 
+En este conjunto de datos se detallan los datos recopilados en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. 
 
 La unidad de análisis son las personas alojadas en los establecimientos. 
 

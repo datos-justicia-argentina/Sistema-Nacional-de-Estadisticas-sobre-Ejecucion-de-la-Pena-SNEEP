@@ -36,7 +36,7 @@ Recursos Disponibles
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
--	**Rango temporal:** censos SNEEP desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+-	**Rango temporal:** censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 

@@ -36,7 +36,7 @@ Recursos Disponibles
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
--	**Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-	**Rango temporal:** censos SNEEP desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -228,4 +228,6 @@ La Base de Datos del SNEEP no incluye los registros sobre la cantidad de interno
 Bibliografía 
 
 [“Una gestión penitenciaria integral”](http://www.jus.gob.ar/media/1126013/Una_Gestion_Penitenciaria_Integral_SNEEP.pdf), Editorial Infojus, 2011, Dirección Nacional de Política Criminal.
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
 

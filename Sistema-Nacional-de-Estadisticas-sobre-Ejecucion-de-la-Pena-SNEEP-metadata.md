@@ -216,6 +216,13 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**mujer_tiene_hijos_intramuro (string):** sólo para mujeres, se consigna si tiene hijos alojados con ella (0 – no / 1 - si)
 
+### Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA - AAAA (desde - hasta)
+
+- **Nombre:** sneep-2002-2016.zip
+
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar correspondiente a los años desde - hasta
+
+- **Formato:** ZIP
 
 ### Notas
 

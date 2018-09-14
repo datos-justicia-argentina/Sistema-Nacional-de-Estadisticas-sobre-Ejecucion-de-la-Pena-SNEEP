@@ -52,9 +52,9 @@ Recursos Disponibles
 
 -	**edad (int):** edad del interno a la fecha del cierre del relevamiento
 
--	**sexo_id (int):** sexo del interno (Código)
+-	**genero_id (int):** género del interno (Código)
 
--	**sexo_descripcion (string):** sexo del interno (Descripción)
+-	**genero_descripcion (string):** género del interno (Descripción)
 
 -	**nacionalidad_id (int):** código de nacionalidad
 

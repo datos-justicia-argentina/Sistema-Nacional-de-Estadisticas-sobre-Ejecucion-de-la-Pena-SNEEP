@@ -42,7 +42,7 @@ Recursos Disponibles
 
 -	**anio_censo (int):** año en el que se realizó el censo
 
--	**provincia_id (int):** código de provincia
+-	**provincia_id (int):** código de provincia SNEEP donde se encuentra el establecimiento penitenciario censado
 
 -	**provincia_descripcion (string):** nombre de la provincia donde se encuentra el establecimiento penitenciario
 
@@ -80,7 +80,7 @@ Recursos Disponibles
 
 -	**ultimo_lugar_residencia_descripcion (string):** descripción de último lugar de residencia (Rural / Urbano) de acuerdo al último domicilio que cada interno registre a su ingreso al establecimiento
 
--	**ultima_provincia_residencia_id (int):** código de provincia
+-	**ultima_provincia_residencia_id (int):** código de provincia SNEEP donde el interno haya tenido su último domicilio
 
 -	**ultima_provincia_residencia_descripcion (string):** nombre de la provincia donde cada interno haya tenido su último domicilio
 
@@ -215,6 +215,10 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 -	**tuvo_reduccion_pena_descripcion (string):** se consigna la reducción de pena que hubiera otorgado el poder ejecutivo (Descripción) 
 
 -	**mujer_tiene_hijos_intramuro (string):** sólo para mujeres, se consigna si tiene hijos alojados con ella (0 – no / 1 - si)
+
+-	**provincia_indec_id (string):** código de provincia según codificación de INDEC donde se encuentra el establecimiento penitenciario censado
+
+-	**ultima_provincia_residencia_indec_id (string):** código de provincia según codificación de INDEC donde el interno haya tenido su último domicilio
 
 ### Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA - AAAA (desde - hasta)
 

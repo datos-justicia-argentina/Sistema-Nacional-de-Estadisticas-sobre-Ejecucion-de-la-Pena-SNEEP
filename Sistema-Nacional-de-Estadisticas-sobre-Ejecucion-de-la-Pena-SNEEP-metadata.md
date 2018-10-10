@@ -232,9 +232,9 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 Consultas a los informes [SISTEMA NACIONAL DE ESTADÍSTICAS SOBRE EJECUCIÓN DE LA PENA (SNEEP)](http://www.jus.gob.ar/areas-tematicas/estadisticas-de-politica-criminal/mapa.aspx) y SISTEMA NACIONAL DE INFORMACIÓN CRIMINAL (SNIC) elaborados por la **Dirección Nacional de Política Criminal**.
 
-[Informe Sneep 2017](https://www.argentina.gob.ar/justicia/afianzar/sneep2017)
+[Estadísticas de Política Criminal - Filtrado interactivo SNEEP](https://www2.jus.gov.ar/dnpc/)
 
-[Estadísticas de Política Criminal](https://www2.jus.gov.ar/dnpc/)
+[Informe Sneep 2017](https://www.argentina.gob.ar/justicia/afianzar/sneep2017)
 
 Esta tarea se lleva a cabo en el marco de lo dispuesto por la [Ley Nº 25.266](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63666/norma.htm) que faculta a la Dirección a requerir información estadística a diferentes organismos oficiales con el fin de confeccionar los informes correspondientes (Estadísticas SNEEP).
 

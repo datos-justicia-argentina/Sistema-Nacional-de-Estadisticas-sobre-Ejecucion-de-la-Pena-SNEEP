@@ -220,11 +220,19 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**ultima_provincia_residencia_indec_id (string):** código de provincia según codificación de INDEC donde el interno haya tenido su último domicilio
 
-### Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA - AAAA (desde - hasta)
+### Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA-AAAA (por año)
 
-- **Nombre:** sneep-2002-2016.zip
+- **Nombre:** sneep-AAAA-AAAA.zip
 
-- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar correspondiente a los años desde - hasta
+- **Descripción del contenido:** archivo comprimido con los censos del Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP, correspondiente a los años AAAA-AAAA (desde - hasta), organizado en archivos anuales.
+
+- **Formato:** ZIP
+
+### Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA-AAAA (unificado)
+
+- **Nombre:** sneep-unificado-AAAA-AAAA.zip
+
+- **Descripción del contenido:** archivo comprimido con los censos del Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP, correspondiente a los años AAAA-AAAA (desde - hasta), organizado en un archivo unificado.
 
 - **Formato:** ZIP
 

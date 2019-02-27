@@ -13,7 +13,7 @@ Características
 ---------------
 -	**Fecha de Primera Publicación:** 14/07/2016
 
--	**Tags o Etiquetas:** establecimientos penitenciarios, SPF, SNEEP, personas privadas de la libertad, cárceles, ejecución de la pena, prisión, presos
+-	**Tags o Etiquetas:** establecimientos penitenciarios, SPF, SNEEP, personas privadas de la libertad, cárceles, ejecución de la pena, prisión, presos, censos
 
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
 

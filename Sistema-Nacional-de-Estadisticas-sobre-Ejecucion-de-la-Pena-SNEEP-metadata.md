@@ -224,7 +224,7 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 - **Nombre:** sneep-AAAA-AAAA.zip
 
-- **Descripción del contenido:** archivo comprimido con los censos del Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP, correspondiente a los años AAAA-AAAA (desde - hasta), organizado en archivos anuales.
+- **Descripción del contenido:** archivo comprimido con los censos del Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP, correspondientes a los años AAAA-AAAA (desde-hasta), organizados en archivos anuales.
 
 - **Formato:** ZIP
 
@@ -232,7 +232,7 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 - **Nombre:** sneep-unificado-AAAA-AAAA.zip
 
-- **Descripción del contenido:** archivo comprimido con los censos del Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP, correspondiente a los años AAAA-AAAA (desde - hasta), organizado en un archivo unificado.
+- **Descripción del contenido:** archivo comprimido con los censos del Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP, correspondientes a los años AAAA-AAAA (desde-hasta), organizados en un archivo unificado.
 
 - **Formato:** ZIP
 

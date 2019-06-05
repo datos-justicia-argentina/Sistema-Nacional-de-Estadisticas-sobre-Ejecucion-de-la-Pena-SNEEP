@@ -42,7 +42,7 @@ Recursos Disponibles
 
 -	**anio_censo (int):** año en el que se realizó el censo
 
--	**provincia_id (int):** código de provincia SNEEP donde se encuentra el establecimiento penitenciario censado
+-	**provincia_sneep_id (int):** código de provincia SNEEP donde se encuentra el establecimiento penitenciario censado (hasta 05/2019 nombre campo provincia_id)
 
 -	**provincia_descripcion (string):** nombre de la provincia donde se encuentra el establecimiento penitenciario
 
@@ -80,7 +80,7 @@ Recursos Disponibles
 
 -	**ultimo_lugar_residencia_descripcion (string):** descripción de último lugar de residencia (Rural / Urbano) de acuerdo al último domicilio que cada interno registre a su ingreso al establecimiento
 
--	**ultima_provincia_residencia_id (int):** código de provincia SNEEP donde el interno haya tenido su último domicilio
+-	**ultima_provincia_residencia_sneep_id (int):** código de provincia SNEEP donde el interno haya tenido su último domicilio (hasta 05/2019 nombre campo ultima_provincia_residencia_id)
 
 -	**ultima_provincia_residencia_descripcion (string):** nombre de la provincia donde cada interno haya tenido su último domicilio
 
@@ -216,9 +216,9 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**mujer_tiene_hijos_intramuro (string):** sólo para mujeres, se consigna si tiene hijos alojados con ella (0 – no / 1 - si)
 
--	**provincia_indec_id (string):** código de provincia según codificación de INDEC donde se encuentra el establecimiento penitenciario censado
+-	**provincia_id (string):** código de provincia según codificación de INDEC donde se encuentra el establecimiento penitenciario censado (hasta 05/2019 nombre campo provincia_indec_id)
 
--	**ultima_provincia_residencia_indec_id (string):** código de provincia según codificación de INDEC donde el interno haya tenido su último domicilio
+-	**ultima_provincia_residencia_id (string):** código de provincia según codificación de INDEC donde el interno haya tenido su último domicilio (hasta 05/2019 nombre campo ultima_provincia_residencia_indec_id)
 
 ### Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA-AAAA (por año)
 

@@ -30,7 +30,7 @@ Recursos Disponibles
 
 ### Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA
 
--	**Nombre del archivo:** Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA.csv (AAAA: corresponde el año del censo publicado)
+-	**Nombre del archivo:** sneep-AAAA.csv (AAAA: corresponde el año del censo publicado)
 
 -	**Descripción del contenido:** el Sistema Nacional de Estadísticas sobre Ejecución de la Pena SNEEP tiene como fuentes a todas las unidades de detención penal, dependientes del sistema federal y provincial. Constituye una fuente de conocimiento en cuanto a características de la población privada de la libertad
 
@@ -219,6 +219,16 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 -	**provincia_id (string):** código de provincia según codificación de INDEC donde se encuentra el establecimiento penitenciario censado (hasta 05/2019 nombre campo provincia_indec_id)
 
 -	**ultima_provincia_residencia_id (string):** código de provincia según codificación de INDEC donde el interno haya tenido su último domicilio
+
+### Servicio penitenciario censo (series)
+
+-	**Nombre del archivo:** servicio-penitenciario-censo-series.csv
+
+-	**Descripción del contenido:** Este recurso contiene las series de tiempo sobre personas privadas de su libertad en los servicios penitenciarios federales y provinciales, correspondientes a los censos anuales realizados a partir del año 2002, clasificados por provincia y situación legal (condenados, procesados y otra situación legal). Incluye total país por cada una de las situaciones legales.
+
+-	**Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-	**Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
 ### Sistema Nacional de Estadísticas sobre Ejecución de la Pena – SNEEP - AAAA-AAAA (por año)
 

@@ -5,7 +5,7 @@ En este conjunto de datos se detallan los datos recopilados en el censo realizad
 
 La unidad de análisis son las personas alojadas en los establecimientos. 
 
-El censo recaba la siguiente información sobre cada interno: edad, sexo, nacionalidad, estado civil, nivel de instrucción, situación laboral, lugar de residencia, jurisdicción judicial, situación legal, fecha de detención, fecha de condena, establecimiento de procedencia, tipo de delitos imputado, participación en trabajo remunerado, en actividades de capacitación laboral, en actividades recreativas, asistencia médica, vistas, alteraciones al orden, sanciones disciplinarias, calificaciones de conducta, tentativas de fugas o evasiones, tentativa de suicidios, lesiones recibidas, duración de la condena, medidas de seguridad, reincidencia, régimen de progresividad, salidas transitorias, régimen de semilibertad, programe de prelibertad, prisión discontinua, semidetención, reducción de pena, mujeres alojadas con sus hijos.
+El censo recaba la siguiente información sobre cada interno: edad, sexo, nacionalidad, estado civil, nivel de instrucción, situación laboral, lugar de residencia, jurisdicción judicial, situación legal, fecha de detención, fecha de condena, establecimiento de procedencia, tipo de delitos imputado, participación en trabajo remunerado, en actividades de capacitación laboral, en actividades recreativas, asistencia médica, vistas, alteraciones al orden, sanciones disciplinarias, calificaciones de conducta, tentativas de fugas o evasiones, tentativa de suicidios, lesiones recibidas, duración de la condena, reincidencia, régimen de progresividad, salidas transitorias, régimen de semilibertad, programe de prelibertad, prisión discontinua, semidetención, reducción de pena, mujeres alojadas con sus hijos.
 
 http://datos.jus.gob.ar/dataset/sneep
 
@@ -40,7 +40,7 @@ Recursos Disponibles
 
 ### Campos del recurso
 
--	**anio_censo (int):** año en el que se realizó el censo
+-	**censo_anio (int):** año en el que se realizó el censo
 
 -	**provincia_sneep_id (int):** código de provincia SNEEP donde se encuentra el establecimiento penitenciario censado
 
@@ -124,7 +124,7 @@ Recursos Disponibles
 
 -	**horas_trabajo_remunerado_descripcion (string):** se consigna si el interno ha realizado trabajos remunerados dentro o fuera del establecimiento, según la carga horaria, durante el año (Descripción)
 
--	**participacion_programa_laboral (int):** se consigna si el interno ha participado en forma regular de un programa de formación o de capacitación laboral durante el año (0 – no / 1 - si)
+-	**participacion_programa_laboral (int):** se consigna si el interno ha participado en forma regular de un programa de formación o de capacitación laboral durante el año (1 – si / 2 - no / 0 - sin datos)
 
 -	**participacion_programa_educativo_id (int):** nivel de educación que se encuentre cursando el interno a la fecha del corte (Código)
 
@@ -136,7 +136,7 @@ Recursos Disponibles
 
 -	**recibio_atencion_medica_ult_anio_descripcion (int):** se consigna si el interno recibió asistencia médica debido a alguna enfermedad preexistente (consultas ambulatorias de clínica y de otras especialidades tanto por demanda espontánea como por citación o por guardia) durante el último año (toma valores SI - descripción de la enfermedad / NO - en caso de que no hubiera consulta/enfermedad). **Este campo sólo está disponible a partir del año 2016**
 
--	**recibio_visitas_ultimo_anio (int):** se consigna si el interno mantuvo contactos sociales con personas ajenas a la institución (0 – no / 1 - si)
+-	**recibio_visitas_ultimo_anio (int):** se consigna si el interno mantuvo contactos sociales con personas ajenas a la institución (1 – si / 2 - no / 0 - sin datos)
 
 -	**participo_alteracion_orden_ult_anio_id (int):** se consigna la participación en alteraciones del orden (Código)
 
@@ -160,7 +160,7 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**tentativa_fugas_evasiones_descripcion (string):** se consigna la tentativa de evasión (aquellos casos en que la persona, hallándose legalmente detenida, saliera del establecimiento utilizando violencia en las personas o fuerza en las cosas) o fuga (aquellos casos en que la persona, hallándose legalmente detenida, saliera del establecimiento sin autorización legal y/o reglamentaria)
 
--	**tentativa_suicidio (int):** se consigna si el interno tuvo intento de suicidio en el último año (0 – no / 1 - si)
+-	**tentativa_suicidio (int):** se consigna si el interno tuvo intento de suicidio en el último año (1 – si / 2 - no / 0 - sin datos)
 
 -	**fue_lesionado_id (int):** se consigna si el interno fue lesionado en el establecimiento en el último año (Código)
 
@@ -172,9 +172,9 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**duracion_condena_rango (int):** si la situación legal del interno es condenado toma valores: 1) Hasta 3 años; Valor 2) De 3 6 años; Valor 3) De 6 a 9 años; 4) De 9 a 12 años; 5) De 12 a 15 años; 6) De 15 a 18 años; 7) Más de 18 años; 8) Sin datos. Si la situación legal del interno es procesado, inimputable o contraventor toma el valor 0. **Este campo sólo está disponible a partir del año 2016**
 
--	**tipo_condena (int):** se consigna en caso que el interno haya sido condenado a prisión o reclusión perpetua (0 – no / 1 - si)
+-	**tipo_condena (int):** se consigna en caso que el interno haya sido condenado a prisión o reclusión perpetua (1 – si / 2 - no / 0 - sin datos)
 
--	**tiene_medidas_seguridad (int):** se indicará cuando se le haya impuesto como accesoria de la condena la reclusión por tiempo indeterminado prevista en el Art.52 del Código Penal (0 – no / 1 - si)
+-	**tiene_medidas_seguridad (int):** se indicará cuando se le haya impuesto como accesoria de la condena la reclusión por tiempo indeterminado prevista en el Art.52 del Código Penal (1 – si / 2 - no / 0 - sin datos)
 
 -	**es_reincidente_id (int):** código de tipo de reincidencia
 
@@ -200,7 +200,7 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**incorporado_reg_semi_libertad_descripcion (string):** se indica si el interno está o estuvo incorporado al régimen de semilibertad durante el año (Descripción)
 
--	**participa_programa_pre_libertad (int):** se consigna si el interno participa o participó durante el año de un programa de prelibertad (0 – no / 1 - si)
+-	**participa_programa_pre_libertad (int):** se consigna si el interno participa o participó durante el año de un programa de prelibertad (1 – si / 2 - no / 0 - sin datos)
 
 -	**participa_programa_prision_discontinua_id (int):** se consigna si el interno se encuentra o se encontró durante el año cumpliendo la pena bajo la modalidad de Prisión Discontinua (Código)
 
@@ -214,7 +214,7 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**tuvo_reduccion_pena_descripcion (string):** se consigna la reducción de pena que hubiera otorgado el poder ejecutivo (Descripción) 
 
--	**mujer_tiene_hijos_intramuro (string):** sólo para mujeres, se consigna si tiene hijos alojados con ella (0 – no / 1 - si)
+-	**mujer_tiene_hijos_intramuro (string):** sólo para mujeres, se consigna si tiene hijos alojados con ella (1 – si / 2 - no / 0 - sin datos)
 
 -	**provincia_id (string):** código de provincia según codificación de INDEC donde se encuentra el establecimiento penitenciario censado (hasta 05/2019 nombre campo provincia_indec_id)
 

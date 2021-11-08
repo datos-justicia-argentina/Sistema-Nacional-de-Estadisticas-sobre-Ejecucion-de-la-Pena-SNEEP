@@ -174,8 +174,6 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 -	**tipo_condena (int):** se consigna en caso que el interno haya sido condenado a prisión o reclusión perpetua (1 – si / 2 - no / 0 - sin datos)
 
--	**tiene_medidas_seguridad (int):** se indicará cuando se le haya impuesto como accesoria de la condena la reclusión por tiempo indeterminado prevista en el Art.52 del Código Penal (1 – si / 2 - no / 0 - sin datos)
-
 -	**es_reincidente_id (int):** código de tipo de reincidencia
 
 -	**es_reincidente_descripcion (string):** descripción de tipo de reincidencia: 

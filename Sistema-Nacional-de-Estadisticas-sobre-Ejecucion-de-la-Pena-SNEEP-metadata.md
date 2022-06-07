@@ -248,11 +248,9 @@ Alteraciones del orden: todos aquellos disturbios de tal magnitud que hayan dado
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-Consultas a los informes [SISTEMA NACIONAL DE ESTADÍSTICAS SOBRE EJECUCIÓN DE LA PENA (SNEEP)](http://www.jus.gob.ar/areas-tematicas/estadisticas-de-politica-criminal/mapa.aspx) y SISTEMA NACIONAL DE INFORMACIÓN CRIMINAL (SNIC) elaborados por la **Dirección Nacional de Política Criminal**.
-
 [Estadísticas de Política Criminal - Filtrado interactivo SNEEP](https://www2.jus.gov.ar/dnpc/)
 
-[Informes Sneep 2002 - 2020](https://www.argentina.gob.ar/justicia/politicacriminal/estadisticas/sneep))
+[Informes Sneep 2002 - 2020](https://www.argentina.gob.ar/justicia/politicacriminal/estadisticas/sneep)
 
 Esta tarea se lleva a cabo en el marco de lo dispuesto por la [Ley Nº 25.266](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63666/norma.htm) que faculta a la Dirección a requerir información estadística a diferentes organismos oficiales con el fin de confeccionar los informes correspondientes (Estadísticas SNEEP).
 

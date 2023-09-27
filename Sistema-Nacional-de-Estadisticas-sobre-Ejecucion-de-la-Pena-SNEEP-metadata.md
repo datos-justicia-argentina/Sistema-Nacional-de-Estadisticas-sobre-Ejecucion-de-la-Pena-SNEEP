@@ -62,7 +62,7 @@ Recursos Disponibles
 
     -   2020 al 2021: Mujer - Varón - Trans Mujer/Travesti - Trans Varón
  
-    -   2022 al 2022: Mujer - Varón - Trans Mujer/Travesti - Trans Varón - No Binario
+    -   2022: Mujer - Varón - Trans Mujer/Travesti - Trans Varón - No Binario
 
 -	**nacionalidad_id (int):** código de nacionalidad
 

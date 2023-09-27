@@ -54,7 +54,12 @@ Recursos Disponibles
 
 -	**genero_id (int):** género del interno (Código)
 
--	**genero_descripcion (string):** género del interno (Descripción)
+-	**genero_descripcion (string):** género del interno. Categorías por año:
+  
+    -      2002 al 2014: Mujer - Varón
+    -      2015 al 2019: Mujer - Varón - Trans Mujer/Travesti
+    -      2020 al 2021: Mujer - Varón - Trans Mujer/Travesti - Trans Varón
+    -      2022 al 2022: Mujer - Varón - Trans Mujer/Travesti - Trans Varón - No Binario
 
 -	**nacionalidad_id (int):** código de nacionalidad
 

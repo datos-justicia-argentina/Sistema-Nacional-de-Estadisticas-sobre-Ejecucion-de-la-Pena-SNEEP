@@ -15,11 +15,11 @@ Características
 
 -	**Tags o Etiquetas:** SNEEP, SPF, censos, cárceles, ejecución de la pena, establecimientos penitenciarios, personas privadas de la libertad, presos, prisiones
 
--	**Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
+-	**Organización:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
 
--	**Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
+-	**Autor:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
 
--	**Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
+-	**Responsable:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
 
 -	**Grupos:** Política Criminal
 
@@ -268,5 +268,5 @@ Bibliografía
 
 [“Una gestión penitenciaria integral”](http://www.jus.gob.ar/media/1126013/Una_Gestion_Penitenciaria_Integral_SNEEP.pdf), Editorial Infojus, 2011, Dirección Nacional de Política Criminal.
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
 
